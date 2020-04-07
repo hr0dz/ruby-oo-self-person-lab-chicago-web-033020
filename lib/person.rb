@@ -75,6 +75,10 @@ class Person
         return "blah blah blah blah blah"
       end
     end
+<<<<<<< HEAD
 end
 
       
+=======
+end
+>>>>>>> fd0189cfde84dcf28448926c9a171fa203e51f4f
